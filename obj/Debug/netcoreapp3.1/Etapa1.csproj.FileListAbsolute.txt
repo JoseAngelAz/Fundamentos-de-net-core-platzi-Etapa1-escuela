@@ -1,0 +1,13 @@
+/home/angel/Escritorio/NET/Etapa1/bin/Debug/netcoreapp3.1/Etapa1
+/home/angel/Escritorio/NET/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.deps.json
+/home/angel/Escritorio/NET/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.json
+/home/angel/Escritorio/NET/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.runtimeconfig.dev.json
+/home/angel/Escritorio/NET/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.dll
+/home/angel/Escritorio/NET/Etapa1/bin/Debug/netcoreapp3.1/Etapa1.pdb
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csprojAssemblyReference.cache
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfoInputs.cache
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.AssemblyInfo.cs
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.csproj.CoreCompileInputs.cache
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.dll
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.pdb
+/home/angel/Escritorio/NET/Etapa1/obj/Debug/netcoreapp3.1/Etapa1.genruntimeconfig.cache
